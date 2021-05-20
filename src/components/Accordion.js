@@ -28,6 +28,6 @@ const Accordion = ({ items }) => {
             {renderedItems}
         </div>
     );
-};
+}; 
 
 export default Accordion;
