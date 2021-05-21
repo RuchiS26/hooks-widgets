@@ -57,7 +57,7 @@ const Search = () => {
     });
 
     return (
-        <div>
+        <div className="container-fluid">
             <div className="ui form">
                 <div className="field">
                     <label>Enter Search Term</label>
