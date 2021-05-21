@@ -4,6 +4,14 @@ This project is built in a scope of learning the hooks system by building 4 basi
 
 ## Available Scripts
 
+For New React Application, you can run: 
+
+### `create-react-app yourappname`
+
+To run the app, first switch into the app directory you can run:
+
+### `cd yourappname`
+
 In the project directory, you can run:
 
 ### `npm start`
